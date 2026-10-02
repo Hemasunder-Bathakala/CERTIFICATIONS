@@ -1,2 +1,6 @@
-# CERTIFICATIONS
-Completed the NPTEL Corporate Finance course and earned a score of 87/100. This repository contains my certificate.
+# Certifications
+This repository contains certificates I have earned through coursework and internship experience.
+## Certificates
+- [NPTEL Corporate Finance]-(./CORPORATE%20FINANCE%20NPTEL.pdf) — Score: 87/100
+- [Quantum Fundamentals]-(./QUANTUM%20FUNDAMENTALS.pdf)
+- Internship Certificate —(./INTERNSHIP%20CERTIFICATE.pdf)
